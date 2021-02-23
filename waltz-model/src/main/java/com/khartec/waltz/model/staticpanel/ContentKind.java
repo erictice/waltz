@@ -17,7 +17,11 @@
  */
 
 package com.khartec.waltz.model.staticpanel;
-
+/**
+ * Testing
+ * @author erictice
+ *
+ */
 public enum ContentKind {
     HTML,
     MARKDOWN

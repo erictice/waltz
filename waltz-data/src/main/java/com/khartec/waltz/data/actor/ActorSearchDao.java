@@ -31,7 +31,11 @@ import static com.khartec.waltz.common.Checks.checkNotNull;
 import static com.khartec.waltz.common.PredicateUtilities.all;
 import static java.util.stream.Collectors.toList;
 
-
+/**
+ * Repository Class
+ * @author erictice
+ *
+ */
 @Repository
 public class ActorSearchDao {
 

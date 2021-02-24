@@ -49,6 +49,7 @@ public class AssessmentDefinitionEndpoint implements Endpoint {
 
     @Override
     public void register() {
+// This is a good place to register
         String getByIdPath = mkPath(BASE_URL, ":id");
         String findAllPath = mkPath(BASE_URL);
         String findByKind = mkPath(BASE_URL, "kind", ":kind");

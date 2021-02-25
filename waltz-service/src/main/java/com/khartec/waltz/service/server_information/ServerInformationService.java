@@ -38,7 +38,11 @@ import static com.khartec.waltz.common.Checks.checkNotNull;
 import static com.khartec.waltz.common.StringUtilities.isEmpty;
 import static java.util.Collections.emptyList;
 
-
+/**
+ * Javadoc 
+ * @author erictice
+ *
+ */
 @Service
 public class ServerInformationService {
 

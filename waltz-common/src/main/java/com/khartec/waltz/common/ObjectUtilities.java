@@ -24,7 +24,7 @@ import java.util.stream.Stream;
 public class ObjectUtilities {
 
     public static <T> T dump(T x) {
-        System.out.println("dump: " + x);
+        System.out.println("dumping: " + x);
         return x;
     }
 

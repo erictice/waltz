@@ -32,7 +32,7 @@ import static com.khartec.waltz.common.Checks.checkNotNull;
 
 @Service
 public class AssessmentDefinitionService {
-
+//Why is there no documentation in these files
     private final AssessmentDefinitionDao assessmentDefinitionDao;
 
 

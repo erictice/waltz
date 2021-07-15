@@ -50,6 +50,7 @@ public class ChangeLogDao {
 
     private final DSLContext dsl;
 
+    // Documents
     public static final RecordMapper<? super Record, ChangeLog> TO_DOMAIN_MAPPER = r -> {
         ChangeLogRecord record = r.into(ChangeLogRecord.class);
 
